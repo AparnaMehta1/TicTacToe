@@ -1,0 +1,25 @@
+.container{
+display: flex;
+flex-direction: column;
+width: 500px;
+align-items: center;
+justify-content: center;
+margin-top: 5%;
+padding: 50px;
+margin-bottom: 5%;
+}
+table td {
+    border: 3px solid rgb(181, 130, 130);
+    width :100px;
+    height: 100px;
+    margin-top: 5%;
+   
+}
+tr{
+    color: whitesmoke;
+    font-size:35px;
+    display: block;
+    text-align: center;
+    
+    
+}
